@@ -14,7 +14,7 @@ Then I aggregate the data by year and neighborhood to compare the average gross 
 
 ![Line graph of average sale price per square foot and average gross rent for Alamo Square](/Images/sale_price_gross_rent.png)
 
-Finally, I create a geospatial points plot to show the average gross rent and average sale prices per square foot over a map of San Francisco.  
+Finally, I create a geospatial points plot to show the average gross rent and average sale prices per square foot over an interactive points graph of San Francisco.  
 
 ![Geographical OSM map of San Francisco with color points showing data points by neighborhood](/Images/geoplot.png)
 
