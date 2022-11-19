@@ -48,6 +48,8 @@ If you would like to run the program in JupyterLab, install the [Anaconda](https
 
 The Jupyter notebook [san_francisco_housing.ipynb](/san_francisco_housing.ipynb) will provide all steps of the data collection, preparation, and analysis. Data visualizations are shown inline and accompanying analysis responses are provided.
 
+**Note:** Graphs will not be visible in the GitHub preview even though the rest of the code is. To see all plots you will need to clone the repository and view from the notebook. 
+
 ---
 
 ## Contributors
