@@ -32,7 +32,8 @@ The following dependencies are used:
 3. [Pandas](https://github.com/pandas-dev/pandas) (1.3.5) - Data analysis
 4. [Matplotlib](https://github.com/matplotlib/matplotlib) (3.5.1) - Data visualization
 5. [Numpy](https://numpy.org/) (1.21.5) - Data calculations + Pandas support
-6. [hvPlot](https://hvplot.holoviz.org/index.html) (0.8.1) - Interactive and Geospatial plots
+6. [hvPlot](https://hvplot.holoviz.org/index.html) (0.8.1) - Interactive Pandas plots 
+7. [GeoViews](https://geoviews.org/) (1.9.5) - Geospatial plots
 
 
 ---
