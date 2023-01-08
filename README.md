@@ -1,4 +1,4 @@
-# Module 6 Challenge - Geospatial Analysis for San Francisco Housing Investments
+# Geospatial Analysis for San Francisco Housing Investments - UW Fintech Bootcamp Module 6 Challenge
 
 This is my proptech project that includes interactive data visualizations for a geospatial analysis of properties in San Francisco to find viable investment opportunities. The data used is a combination of quantitative stats for properties in different San Francisco neighborhoods and the coordinate data for each of them. 
 
